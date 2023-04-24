@@ -1,0 +1,15 @@
+D:\programs\Console.Hnep\bin\Debug\net6.0\Console.Hnep.exe
+D:\programs\Console.Hnep\bin\Debug\net6.0\Console.Hnep.deps.json
+D:\programs\Console.Hnep\bin\Debug\net6.0\Console.Hnep.runtimeconfig.json
+D:\programs\Console.Hnep\bin\Debug\net6.0\Console.Hnep.dll
+D:\programs\Console.Hnep\bin\Debug\net6.0\Console.Hnep.pdb
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.csproj.AssemblyReference.cache
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.AssemblyInfoInputs.cache
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.AssemblyInfo.cs
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.csproj.CoreCompileInputs.cache
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.dll
+D:\programs\Console.Hnep\obj\Debug\net6.0\refint\Console.Hnep.dll
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.pdb
+D:\programs\Console.Hnep\obj\Debug\net6.0\Console.Hnep.genruntimeconfig.cache
+D:\programs\Console.Hnep\obj\Debug\net6.0\ref\Console.Hnep.dll
