@@ -1,0 +1,15 @@
+D:\programs\IRead , IWrite tusk 1\bin\Debug\net6.0\IRead , IWrite tusk 1.exe
+D:\programs\IRead , IWrite tusk 1\bin\Debug\net6.0\IRead , IWrite tusk 1.deps.json
+D:\programs\IRead , IWrite tusk 1\bin\Debug\net6.0\IRead , IWrite tusk 1.runtimeconfig.json
+D:\programs\IRead , IWrite tusk 1\bin\Debug\net6.0\IRead , IWrite tusk 1.dll
+D:\programs\IRead , IWrite tusk 1\bin\Debug\net6.0\IRead , IWrite tusk 1.pdb
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.csproj.AssemblyReference.cache
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.AssemblyInfoInputs.cache
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.AssemblyInfo.cs
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.csproj.CoreCompileInputs.cache
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.dll
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\refint\IRead , IWrite tusk 1.dll
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.pdb
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\IRead , IWrite tusk 1.genruntimeconfig.cache
+D:\programs\IRead , IWrite tusk 1\obj\Debug\net6.0\ref\IRead , IWrite tusk 1.dll
